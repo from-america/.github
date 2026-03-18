@@ -7,7 +7,7 @@
 ### Founder
 **Eric Spencer**  
 Founder & Developer  
-[ericspencer00.github.io](https://ericspencer00.github.io)
+[ericspencer.us](https://ericspencer.us)
 
 ---
 
