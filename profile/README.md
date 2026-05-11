@@ -13,7 +13,7 @@ Founder & Developer
 
 Based in the United States  
 🌐 [fromamerica-llc.com](https://fromamerica-llc.com)  
-📧 [ericspencer1450@gmail.com](mailto:ericspencer1450@gmail.com)
+📧 [eric@fromamerica-llc.com](mailto:eric@fromamerica-llc.com)
 
 ---
 | | Project | Link |
