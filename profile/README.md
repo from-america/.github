@@ -21,4 +21,4 @@ Based in the United States
 | <img src="https://instxnt.xyz/favicon.png" width="20" height="20"> | **instxnt** | [instxnt.xyz](https://instxnt.xyz) |
 | <img src="https://stockgenie.app/app-icon.png" width="20" height="20"> | **StockGenie** | [stockgenie.app](https://stockgenie.app) |
 | <img src="https://fromamerica-llc.com/FreeLock-web/img/icon.webp" width="20" height="20"> | **FreeLock** | [fromamerica-llc.com/FreeLock-web](https://fromamerica-llc.com/FreeLock-web) |
-| <img src="assets/picaius-icon.png" width="20" height="20"> | **Picaius** | [picai.us](https://picai.us) |
+| <img src="../assets/picaius-icon.png" width="20" height="20"> | **Picaius** | [picai.us](https://picai.us) |
